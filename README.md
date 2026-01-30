@@ -26,15 +26,3 @@ Security: Least-privilege enforcement and vulnerability mitigation.
 
 Scripting: Logic flow and automation in Bash.
 
-3. Visualizing the Project Flow
-Even without a terminal, you can explain the logic to a recruiter. Your script follows a professional Security Hardening Workflow:
-
-Why this works for you:
-
-Proof of Knowledge: It proves you understand User Management and Permission Handling.
-
-
-Professionalism: It shows you document your work, which is a requirement for roles using Jira or ServiceNow.
-
-
-Certification Alignment: It directly applies the concepts from your CCNA (Firewalls/ACLs) and Security+ (Least Privilege).
